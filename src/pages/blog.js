@@ -30,7 +30,6 @@ const BlogPage = () => {
               <p>{blog.node.frontmatter.date}</p>
             </li>
           )}
-
         </ol>
       </Layout>
     </div>
